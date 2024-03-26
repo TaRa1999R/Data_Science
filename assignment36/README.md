@@ -7,8 +7,10 @@ pip install -r requirments.txt
 ```
 
 ## First part : Make a Dataset
+I used image proccessing to make a dataset from a photo.
 
 ## Second part : Lobe
+I used Lobe softwar to detect pandas from different kind of bears.
 
 ## Third part : Matplotlib Tutorial
 For this assignment I read W3Schools Matplotlib tutorial completely, and I tried to use all different codes in my assignment.
