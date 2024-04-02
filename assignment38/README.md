@@ -10,7 +10,8 @@ pip install -r requirments.txt
 Get ..... certificate from sololearn.
 
 ## Second part : Correct Statement
-Correct statement : As data science is 
+Correct statement : As data science is not a discipline traditionally taught at universities, contemporary data scientists come from diverse backgrounds such as engineering, statistics, and physics.
+
 ## Third part : Apples 🍎 & Bananas 🍌
 
 ## Fourth part : Balloons 🎈 & Melons 🍈
