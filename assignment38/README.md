@@ -7,6 +7,7 @@ pip install -r requirments.txt
 ```
 
 ## First part : Sololearn Certificate
+Get ..... certificate from sololearn.
 
 ## Second part : Correct Statement
 
@@ -14,4 +15,4 @@ pip install -r requirments.txt
 
 ## Fourth part : Balloons 🎈 & Melons 🍈
 
-## Fifth Part : California Cities
+## Fifth Part : California Cities 
