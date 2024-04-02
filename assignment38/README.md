@@ -10,7 +10,7 @@ pip install -r requirments.txt
 Get ..... certificate from sololearn.
 
 ## Second part : Correct Statement
-
+Correct statement : As data science is 
 ## Third part : Apples 🍎 & Bananas 🍌
 
 ## Fourth part : Balloons 🎈 & Melons 🍈
