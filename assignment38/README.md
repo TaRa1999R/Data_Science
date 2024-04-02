@@ -1,4 +1,4 @@
-# Assignment 38 : 
+# Assignment 38 : DATA SCIENCE
 
 ## How to Install
 Run following command :
@@ -6,8 +6,12 @@ Run following command :
 pip install -r requirments.txt
 ```
 
-## First part :
-## Second part :
-## Third part : 
-## Fourth part :
-## Fifth Part : 
+## First part : Sololearn Certificate
+
+## Second part : Correct Statement
+
+## Third part : Apples 🍎 & Bananas 🍌
+
+## Fourth part : Balloons 🎈 & Melons 🍈
+
+## Fifth Part : California Cities
