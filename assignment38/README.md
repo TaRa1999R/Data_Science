@@ -17,3 +17,6 @@ Correct statement : As data science is not a discipline traditionally taught at 
 ## Fourth part : Balloons 🎈 & Melons 🍈
 
 ## Fifth Part : California Cities 
+In this assignment I used the california cities dataset and show its information in a scatter with matplotlib library.
+Final result is :
+![alt text](outputs/california_cities.png)
