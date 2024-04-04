@@ -33,4 +33,4 @@ And I used a 3D scatter to show thier distribution. Here is my result :
 ## Fifth Part : California Cities 
 In this assignment I used the california cities dataset and show its information in a scatter with matplotlib library.
 Final result is :
-![alt text](outputs/California cities.png)
+![alt text](<outputs/California cities.png>)
