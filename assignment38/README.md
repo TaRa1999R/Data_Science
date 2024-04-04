@@ -13,7 +13,7 @@ Get 'Coding for Data' certificate from sololearn.
 Correct statement : As data science is not a discipline traditionally taught at universities, contemporary data scientists come from diverse backgrounds such as engineering, statistics, and physics.
 
 ## Third part : Apples 🍎 & Bananas 🍌
-In this assignment I produce a database from width and length of 1000 applea and 1000 bananas with random command.
+In this assignment I produce a normal database from width and length of 1000 applea and 1000 bananas with random command.
 And I used different plots to show my information :
 
 ![alt text](<outputs/Banana & Apple Scatter plot.png>)
@@ -26,6 +26,9 @@ And I used different plots to show my information :
 ![alt text](<outputs/Banana & Apple Perimeter.png>)
 
 ## Fourth part : Balloons 🎈 & Melons 🍈
+In this assignment I produce a normal database from width and length and weight of 500 balloons and 500 melons with random command.
+And I used a 3D scatter to show thier distribution. Here is my result :
+![alt text](<outputs/Balloons & Melons.png>)
 
 ## Fifth Part : California Cities 
 In this assignment I used the california cities dataset and show its information in a scatter with matplotlib library.
