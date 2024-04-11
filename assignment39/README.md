@@ -6,6 +6,8 @@ Run following command :
 pip install -r requirments.txt
 ```
 
-## First part :
-## Second part : 
-## Third part : 
+## First part : Online Retai
+
+## Second part : COVID-19
+
+## Third part : DigiKala
