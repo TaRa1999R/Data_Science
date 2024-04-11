@@ -7,6 +7,7 @@ pip install -r requirments.txt
 ```
 
 ## First part : Online Retai
+In this assignment we have sale information of an online retai. And we want to find out why monthly revenue had a significant drop on April 2011.
 
 ## Second part : COVID-19
 
