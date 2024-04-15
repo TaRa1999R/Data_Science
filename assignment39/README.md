@@ -20,5 +20,13 @@ Here are some of this code's outputs :
 ![alt text](<outputs/output_1_monthly retention rate.png>)
 
 ## Second part : COVID-19
+In this assignment we have a database from covid pandemi, and we want to find some information from it.
+🟣List of 8 countries with highest corona patients in the fourth month of 2020 :
+![alt text](<outputs/output_2_most patients.png>)
+
+🟣The death rate in Iran on different days:
+![alt text](<outputs/output_2_death rate iran.png>)
 
 ## Third part : DigiKala
+🟣
+🟣
