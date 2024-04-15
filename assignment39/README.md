@@ -32,7 +32,7 @@ In this assignment we have a database from covid pandemi, and we want to find so
 ## Third part : DigiKala
 In this assignment we have access to digikala's order information, and we are going to reach to the following information from this database :
 🟣Order count per month :
-
+![alt text](<outputs/output_3_number of orders.png>)
 
 🟣Customers count per city :
-
+![alt text](<outputs/output_3_number of customers.png>)
