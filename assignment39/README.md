@@ -28,5 +28,9 @@ In this assignment we have a database from covid pandemi, and we want to find so
 ![alt text](<outputs/output_2_death rate iran.png>)
 
 ## Third part : DigiKala
-🟣
-🟣
+In this assignment we have access to digikala's order information, and we are going to reach to the following information from this database :
+🟣Order count per month :
+
+
+🟣Customers count per city :
+
