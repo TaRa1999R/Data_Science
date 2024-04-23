@@ -6,5 +6,6 @@ Run following command :
 pip install -r requirments.txt
 ```
 
-## First part : 
-## Second part : 
+## First part : 💲💲 Billionaires 💲💲
+
+## Second part : ⚽⚽ Lionel Messi ⚽⚽
