@@ -7,7 +7,7 @@ pip install -r requirments.txt
 ```
 
 ## First part : 💲💲 Billionaires 💲💲
-In this assignment we have sale information of Billionaires around the world in 2021. Here are some of the outputs based on processing on this information :
+In this assignment we have information of Billionaires around the world in 2021. Here are some of the outputs based on processing on this information :
 
 🟣 Mean and Variance of the age  of Billionaires :
 
@@ -24,3 +24,13 @@ Variance of billionaires age =  180.70458328585374
 ![alt text](<outputs/output1 country with less number of billionaires.png>)
 
 ## Second part : ⚽⚽ Lionel Messi ⚽⚽
+In this assignment we have information of Lionel Messi's, his games and it's results. Here are some of the outputs based on processing on this 
+information :
+
+🟣 Number of Goals in Each Year :
+
+🟣 Are most of the penalties with the right foot or the left foot?
+
+🟣 What percentage of the games in which Messi scored in overtime ended in victory?
+
+⭐ What percentage of Masi's goals were draws ?
