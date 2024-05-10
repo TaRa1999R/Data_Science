@@ -34,5 +34,6 @@ information :
 ![alt text](<outputs/output2 Right foot Vs. Left foot.png>)
 
 🟣 What percentage of the games in which Messi scored in overtime ended in victory?
+![alt text](<outputs/output2 victory by overtime goals.png>)
 
 ⭐ What percentage of Masi's goals were draws ?
