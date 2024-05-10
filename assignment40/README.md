@@ -37,3 +37,4 @@ information :
 ![alt text](<outputs/output2 victory by overtime goals.png>)
 
 ⭐ What percentage of Masi's goals were draws ?
+![alt text](<outputs/output2 draw or not.png>)
