@@ -29,6 +29,7 @@ information :
 
 🟣 Number of Goals in Each Year :
 ![alt text](<outputs/output2 goals in each year.png>)
+
 🟣 Are most of the penalties with the right foot or the left foot?
 
 🟣 What percentage of the games in which Messi scored in overtime ended in victory?
