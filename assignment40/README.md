@@ -11,8 +11,8 @@ In this assignment we have information of Billionaires around the world in 2021.
 
 🟣 Mean and Variance of the age  of Billionaires :
 
-Mean of billionaires age =  63
-Variance of billionaires age =  181
+Mean of billionaires age =  63.1
+Variance of billionaires age =  180.7
 
 🟣 Sum of NetWorth of Each Country :
 ![alt text](<outputs/output1 networth sum.png>)
